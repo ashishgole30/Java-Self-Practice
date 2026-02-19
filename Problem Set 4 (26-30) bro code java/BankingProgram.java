@@ -1,4 +1,5 @@
 
+// JAVA BANKING PROGRAM
 // importing scanner class
 import java.util.Scanner;
 
