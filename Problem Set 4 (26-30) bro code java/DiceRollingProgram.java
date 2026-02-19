@@ -93,7 +93,7 @@ public class DiceRollingProgram {
 
             System.out.println();
         }
-
+        // End
         System.out.println("Thanks for playing!");
         scanner.close();
     }
